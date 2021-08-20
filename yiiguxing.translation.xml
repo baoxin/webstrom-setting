@@ -1,0 +1,37 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="資産詳細変更前のデータ" />
+      <item value="calculate" />
+      <item value="priority" />
+      <item value="consumed" />
+      <item value="画面遷移の際に画面が真っ白になる現象の一時回避のため。今まで正式な回避策が見つからない" />
+      <item value="router Direction" />
+      <item value="is Have Rlate Data" />
+      <item value="セクションタイトル" />
+      <item value="テナント" />
+      <item value="テナントを選んでください" />
+      <item value="IV" />
+      <item value="reset Tab Status" />
+      <item value="新增未配置时提示信息" />
+      <item value="present" />
+      <item value="is Remmain" />
+      <item value="is Search Condition" />
+      <item value="資産種類が削除された又は権限が変更された可能性があるので、選択できません。" />
+      <item value="資産の絞り込み" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="JAPANESE" value="9" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1629339486042" />
+  </component>
+  <component name="Settings">
+    <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
+  </component>
+</application>
