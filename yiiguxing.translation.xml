@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="マルチチェックボックス項目クリック処理" />
       <item value="資産詳細変更前のデータ" />
       <item value="calculate" />
       <item value="priority" />
@@ -24,7 +25,7 @@
       <map>
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="9" />
+        <entry key="JAPANESE" value="10" />
       </map>
     </option>
   </component>
