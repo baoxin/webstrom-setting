@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="同じ日付を代入（値が変更されない）する処理ではpickerで選択された日付に変更されてしまうので、一時的にnullを設定する（強制的に値を変更する）" />
       <item value="マルチチェックボックス項目クリック処理" />
       <item value="資産詳細変更前のデータ" />
       <item value="calculate" />
@@ -25,12 +26,12 @@
       <map>
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="10" />
+        <entry key="JAPANESE" value="11" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629339486042" />
+    <option name="lastTrimTime" value="1629874190366" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
