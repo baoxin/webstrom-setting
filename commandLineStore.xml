@@ -22,12 +22,21 @@
               <option name="project" value="asset-force" />
             </CLLCommand>
             <CLLCommand>
+              <option name="commandLine" value="npm run build:prod &amp;&amp; npx cap copy" />
+              <option name="global" value="false" />
+              <option name="id" value="b26482aa-3f65-43b4-97fe-fca23c6b1ead" />
+              <option name="name" value="build:prod" />
+              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+              <option name="position" value="2" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
+            <CLLCommand>
               <option name="commandLine" value="npx cap sync&#10;" />
               <option name="global" value="false" />
               <option name="id" value="269e281b-4765-4757-9d31-c4fe2ccf83f7" />
               <option name="name" value="sync" />
               <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
-              <option name="position" value="2" />
+              <option name="position" value="3" />
               <option name="project" value="asset-force" />
             </CLLCommand>
           </list>
