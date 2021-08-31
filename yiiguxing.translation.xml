@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ページ" />
       <item value="上から順に選んでください" />
       <item value="同じ日付を代入（値が変更されない）する処理ではpickerで選択された日付に変更されてしまうので、一時的にnullを設定する（強制的に値を変更する）" />
       <item value="マルチチェックボックス項目クリック処理" />
@@ -27,7 +28,7 @@
       <map>
         <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="12" />
+        <entry key="JAPANESE" value="13" />
       </map>
     </option>
   </component>
