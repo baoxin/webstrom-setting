@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="システム設定フラグ（'1'：値はシステムより設定する、'１'以外：画面よりユーザー自身で設定可能）" />
       <item value="deal Data For Show" />
       <item value="ページ" />
       <item value="上から順に選んでください" />
@@ -29,7 +30,7 @@
       <map>
         <entry key="CHINESE" value="13" />
         <entry key="ENGLISH" value="13" />
-        <entry key="JAPANESE" value="13" />
+        <entry key="JAPANESE" value="14" />
       </map>
     </option>
   </component>
