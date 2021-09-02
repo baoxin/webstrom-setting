@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="資産の予定を調べる" />
       <item value="staff" />
       <item value="メール" />
       <item value="システム設定フラグ（'1'：値はシステムより設定する、'１'以外：画面よりユーザー自身で設定可能）" />
@@ -32,7 +33,7 @@
       <map>
         <entry key="CHINESE" value="15" />
         <entry key="ENGLISH" value="14" />
-        <entry key="JAPANESE" value="15" />
+        <entry key="JAPANESE" value="16" />
       </map>
     </option>
   </component>
