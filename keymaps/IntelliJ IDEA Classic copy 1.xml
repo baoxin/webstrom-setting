@@ -1,0 +1,5 @@
+<keymap version="1" name="IntelliJ IDEA Classic copy 1" parent="Mac OS X">
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+</keymap>
