@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="メール" />
       <item value="システム設定フラグ（'1'：値はシステムより設定する、'１'以外：画面よりユーザー自身で設定可能）" />
       <item value="deal Data For Show" />
       <item value="ページ" />
@@ -28,9 +29,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
+        <entry key="CHINESE" value="14" />
         <entry key="ENGLISH" value="13" />
-        <entry key="JAPANESE" value="14" />
+        <entry key="JAPANESE" value="15" />
       </map>
     </option>
   </component>
