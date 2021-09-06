@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Staff Page" />
       <item value="multi Choise" />
       <item value="multi Chose" />
       <item value="資産の予定を調べる" />
@@ -34,14 +35,14 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630381479685" />
+    <option name="lastTrimTime" value="1630897772037" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
