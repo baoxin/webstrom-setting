@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="date Compare" />
+      <item value="Dynamic" />
+      <item value="Staff Page" />
+      <item value="multi Choise" />
+      <item value="multi Chose" />
+      <item value="資産の予定を調べる" />
+      <item value="staff" />
+      <item value="メール" />
+      <item value="システム設定フラグ（'1'：値はシステムより設定する、'１'以外：画面よりユーザー自身で設定可能）" />
+      <item value="deal Data For Show" />
+      <item value="ページ" />
+      <item value="上から順に選んでください" />
       <item value="同じ日付を代入（値が変更されない）する処理ではpickerで選択された日付に変更されてしまうので、一時的にnullを設定する（強制的に値を変更する）" />
       <item value="マルチチェックボックス項目クリック処理" />
       <item value="資産詳細変更前のデータ" />
@@ -24,14 +36,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
-        <entry key="JAPANESE" value="11" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="FRENCH" value="1" />
+        <entry key="JAPANESE" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629874190366" />
+    <option name="lastTrimTime" value="1630897772037" />
   </component>
   <component name="Settings">
     <option name="targetLanguageSelection" value="PRIMARY_LANGUAGE" />
