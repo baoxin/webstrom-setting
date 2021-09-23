@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Condition" />
       <item value="面包屑" />
       <item value="date Compare" />
       <item value="Dynamic" />
@@ -38,14 +39,14 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="16" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631677376251" />
+    <option name="lastTrimTime" value="1632374881897" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
