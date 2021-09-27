@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="管理者か　（削除できるかを判断するため）" />
       <item value="Condition" />
       <item value="面包屑" />
       <item value="date Compare" />
@@ -41,7 +42,7 @@
         <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="16" />
+        <entry key="JAPANESE" value="17" />
       </map>
     </option>
   </component>
