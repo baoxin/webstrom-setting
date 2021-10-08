@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="表示のみかを示すフラグ（true:表示のみ編集不可;false:編集も可能）" />
       <item value="spread" />
       <item value="preview Flg" />
       <item value="フラグ" />
@@ -46,7 +47,7 @@
         <entry key="ENGLISH" value="19" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="18" />
+        <entry key="JAPANESE" value="19" />
       </map>
     </option>
   </component>
