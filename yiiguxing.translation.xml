@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="フラグ" />
       <item value="管理者か　（削除できるかを判断するため）" />
       <item value="Condition" />
       <item value="面包屑" />
@@ -42,12 +43,12 @@
         <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="17" />
+        <entry key="JAPANESE" value="18" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632374881897" />
+    <option name="lastTrimTime" value="1633664360179" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
