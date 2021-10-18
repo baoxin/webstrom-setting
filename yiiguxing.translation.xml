@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ステップ" />
+      <item value="segment" />
       <item value="表示のみかを示すフラグ（true:表示のみ編集不可;false:編集も可能）" />
       <item value="spread" />
       <item value="preview Flg" />
@@ -43,16 +45,16 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="20" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="19" />
+        <entry key="JAPANESE" value="20" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633664360179" />
+    <option name="lastTrimTime" value="1634517430000" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
