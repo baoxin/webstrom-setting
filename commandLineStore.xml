@@ -57,6 +57,24 @@
               <option name="position" value="5" />
               <option name="project" value="asset-force" />
             </CLLCommand>
+            <CLLCommand>
+              <option name="commandLine" value="ionic generate component &lt;path&gt;" />
+              <option name="global" value="false" />
+              <option name="id" value="43c18109-bb1e-4d4e-9886-3c5e1e8818c7" />
+              <option name="name" value="ionic generate component" />
+              <option name="parameters">
+                <array>
+                  <CLLParameter>
+                    <option name="defaultValue" value="" />
+                    <option name="id" value="7bcabe2b-2437-40c7-acb0-6be27b6bdf90" />
+                    <option name="name" value="path" />
+                  </CLLParameter>
+                </array>
+              </option>
+              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+              <option name="position" value="6" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
           </list>
         </option>
       </CLLDirectory>
