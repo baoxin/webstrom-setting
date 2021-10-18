@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Permission" />
       <item value="ステップ" />
       <item value="segment" />
       <item value="表示のみかを示すフラグ（true:表示のみ編集不可;false:編集も可能）" />
