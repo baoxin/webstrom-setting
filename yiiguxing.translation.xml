@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="console" />
       <item value="バックメソッド" />
       <item value="Workflow Get Application Workflow List Service" />
       <item value="Service" />
@@ -53,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="23" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="23" />
