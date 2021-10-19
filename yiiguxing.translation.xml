@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="バックメソッド" />
       <item value="Workflow Get Application Workflow List Service" />
       <item value="Service" />
       <item value="初始化数据用于保存选择的动态担当者信息" />
@@ -56,7 +57,7 @@
         <entry key="ENGLISH" value="22" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
-        <entry key="JAPANESE" value="22" />
+        <entry key="JAPANESE" value="23" />
       </map>
     </option>
   </component>
