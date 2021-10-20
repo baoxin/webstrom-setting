@@ -49,15 +49,6 @@
               <option name="project" value="asset-force" />
             </CLLCommand>
             <CLLCommand>
-              <option name="commandLine" value="npm run debug" />
-              <option name="global" value="false" />
-              <option name="id" value="9e6329cf-a38b-4570-87a1-a0b2815f6c53" />
-              <option name="name" value="run debug" />
-              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
-              <option name="position" value="5" />
-              <option name="project" value="asset-force" />
-            </CLLCommand>
-            <CLLCommand>
               <option name="commandLine" value="ionic generate component &lt;path&gt;" />
               <option name="global" value="false" />
               <option name="id" value="43c18109-bb1e-4d4e-9886-3c5e1e8818c7" />
@@ -72,7 +63,7 @@
                 </array>
               </option>
               <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
-              <option name="position" value="6" />
+              <option name="position" value="5" />
               <option name="project" value="asset-force" />
             </CLLCommand>
           </list>
