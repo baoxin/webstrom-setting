@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="currency" />
+      <item value="digital Sign" />
       <item value="search Condition Data List" />
       <item value="console" />
       <item value="バックメソッド" />
@@ -49,13 +51,11 @@
       <item value="新增未配置时提示信息" />
       <item value="present" />
       <item value="is Remmain" />
-      <item value="is Search Condition" />
-      <item value="資産種類が削除された又は権限が変更された可能性があるので、選択できません。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="JAPANESE" value="23" />
@@ -63,7 +63,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634517430000" />
+    <option name="lastTrimTime" value="1635139869766" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
