@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="负责人" />
+      <item value="tantousha" />
       <item value="currency" />
       <item value="digital Sign" />
       <item value="search Condition Data List" />
@@ -49,15 +51,13 @@
       <item value="IV" />
       <item value="reset Tab Status" />
       <item value="新增未配置时提示信息" />
-      <item value="present" />
-      <item value="is Remmain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="26" />
-        <entry key="ENGLISH" value="27" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="28" />
         <entry key="DANISH" value="1" />
-        <entry key="FRENCH" value="1" />
+        <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="23" />
       </map>
     </option>
