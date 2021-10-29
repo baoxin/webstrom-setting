@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ペイジ" />
       <item value="workflow Start Save Temporary" />
       <item value="start With Third Flow" />
       <item value="transit Flow Start" />
@@ -50,15 +51,14 @@
       <item value="画面遷移の際に画面が真っ白になる現象の一時回避のため。今まで正式な回避策が見つからない" />
       <item value="router Direction" />
       <item value="is Have Rlate Data" />
-      <item value="セクションタイトル" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
+        <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="33" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
-        <entry key="JAPANESE" value="23" />
+        <entry key="JAPANESE" value="24" />
       </map>
     </option>
   </component>
