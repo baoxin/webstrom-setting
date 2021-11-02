@@ -66,6 +66,15 @@
               <option name="position" value="5" />
               <option name="project" value="asset-force" />
             </CLLCommand>
+            <CLLCommand>
+              <option name="commandLine" value="npm run build:dev &amp;&amp; npx cap copy &amp;&amp; npx cap open ios" />
+              <option name="global" value="false" />
+              <option name="id" value="3a3079af-2c5a-4605-be34-316116a343e1" />
+              <option name="name" value="build:dev ios" />
+              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+              <option name="position" value="6" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
           </list>
         </option>
       </CLLDirectory>
