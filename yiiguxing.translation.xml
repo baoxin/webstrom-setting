@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="appur Info Summary" />
       <item value="ペイジ" />
       <item value="workflow Start Save Temporary" />
       <item value="start With Third Flow" />
@@ -50,12 +51,12 @@
       <item value="consumed" />
       <item value="画面遷移の際に画面が真っ白になる現象の一時回避のため。今まで正式な回避策が見つからない" />
       <item value="router Direction" />
-      <item value="is Have Rlate Data" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
         <entry key="ENGLISH" value="33" />
+        <entry key="ICELANDIC" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="JAPANESE" value="24" />
@@ -63,7 +64,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635139869766" />
+    <option name="lastTrimTime" value="1635997674406" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
