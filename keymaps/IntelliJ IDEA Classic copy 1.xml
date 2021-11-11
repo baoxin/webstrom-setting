@@ -2,4 +2,5 @@
   <action id="FixDocComment">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ReformatCode" />
 </keymap>
