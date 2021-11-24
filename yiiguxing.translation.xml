@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="コピー" />
       <item value="preview" />
       <item value="appur Info Summary" />
       <item value="ペイジ" />
@@ -50,21 +51,20 @@
       <item value="calculate" />
       <item value="priority" />
       <item value="consumed" />
-      <item value="画面遷移の際に画面が真っ白になる現象の一時回避のため。今まで正式な回避策が見つからない" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="34" />
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
-        <entry key="JAPANESE" value="24" />
+        <entry key="JAPANESE" value="25" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637214226699" />
+    <option name="lastTrimTime" value="1637721416603" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
