@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="digital Sign" />
       <item value="一番上にスクロール" />
       <item value="コピー" />
       <item value="preview" />
@@ -14,7 +15,6 @@
       <item value="负责人" />
       <item value="tantousha" />
       <item value="currency" />
-      <item value="digital Sign" />
       <item value="search Condition Data List" />
       <item value="console" />
       <item value="バックメソッド" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
