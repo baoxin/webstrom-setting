@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="一番上にスクロール" />
       <item value="コピー" />
       <item value="preview" />
       <item value="appur Info Summary" />
@@ -50,7 +51,6 @@
       <item value="資産詳細変更前のデータ" />
       <item value="calculate" />
       <item value="priority" />
-      <item value="consumed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -59,7 +59,7 @@
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
-        <entry key="JAPANESE" value="25" />
+        <entry key="JAPANESE" value="26" />
       </map>
     </option>
   </component>
