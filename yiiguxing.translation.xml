@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="direction" />
+      <item value="oritation" />
       <item value="digital Sign" />
       <item value="一番上にスクロール" />
       <item value="コピー" />
@@ -49,22 +51,20 @@
       <item value="同じ日付を代入（値が変更されない）する処理ではpickerで選択された日付に変更されてしまうので、一時的にnullを設定する（強制的に値を変更する）" />
       <item value="マルチチェックボックス項目クリック処理" />
       <item value="資産詳細変更前のデータ" />
-      <item value="calculate" />
-      <item value="priority" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="CHINESE" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
-        <entry key="FRENCH" value="2" />
+        <entry key="FRENCH" value="3" />
         <entry key="JAPANESE" value="26" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637721416603" />
+    <option name="lastTrimTime" value="1638261875374" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
