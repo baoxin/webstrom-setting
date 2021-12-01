@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enable Universal Serial Ocr" />
       <item value="メーニュー" />
       <item value="要素が反応しないようにする" />
       <item value="direction" />
@@ -50,12 +51,11 @@
       <item value="deal Data For Show" />
       <item value="ページ" />
       <item value="上から順に選んでください" />
-      <item value="同じ日付を代入（値が変更されない）する処理ではpickerで選択された日付に変更されてしまうので、一時的にnullを設定する（強制的に値を変更する）" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="ENGLISH" value="37" />
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
