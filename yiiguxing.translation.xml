@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fires on the target object when the user moves the mouse out of a valid drop target during a drag operation. @param ev The drag event" />
       <item value="enable Universal Serial Ocr" />
       <item value="メーニュー" />
       <item value="要素が反応しないようにする" />
@@ -50,12 +51,11 @@
       <item value="システム設定フラグ（'1'：値はシステムより設定する、'１'以外：画面よりユーザー自身で設定可能）" />
       <item value="deal Data For Show" />
       <item value="ページ" />
-      <item value="上から順に選んでください" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="38" />
         <entry key="ICELANDIC" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
