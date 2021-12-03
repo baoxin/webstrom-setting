@@ -75,6 +75,15 @@
               <option name="position" value="6" />
               <option name="project" value="asset-force" />
             </CLLCommand>
+            <CLLCommand>
+              <option name="commandLine" value="pod install" />
+              <option name="global" value="false" />
+              <option name="id" value="f4d7ec1a-2476-47be-9da6-c068b0aef213" />
+              <option name="name" value="iOS pod install" />
+              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force/ios/App" />
+              <option name="position" value="7" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
           </list>
         </option>
       </CLLDirectory>
