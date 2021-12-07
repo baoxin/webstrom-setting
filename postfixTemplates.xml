@@ -2,7 +2,11 @@
   <component name="PostfixTemplates">
     <template id="nn@userDefined" key=".nn" provider="builtin.js" language-level="ES6" topmost="false">
       <conditions />
-      <template name="fakeKey" value="if($EXPR$ !== null &amp;&amp; $EXPR$ !== undefined){&#10;    $SELECTION$&#10;}&#10;" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="if($EXPR$ !== null &amp;&amp; $EXPR$ !== undefined){&#10;    $SELECTION$&#10;}&#10;" description="" toReformat="true" toShortenFQNames="true" />
+    </template>
+    <template id="func@userDefined" key=".func" provider="builtin.js" language-level="ES6" topmost="true">
+      <conditions />
+      <template name="fakeKey" value="()=&gt;{$EXPE$}" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
