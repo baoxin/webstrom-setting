@@ -1,5 +1,5 @@
 <templateSet group="JavaScript">
-  <template name="func" value="($params$)=&gt;{$end$}" description="" toReformat="true" toShortenFQNames="true">
+  <template name="func" value="($params$)=&gt;{$end$}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
