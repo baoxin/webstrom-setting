@@ -22,9 +22,19 @@
               <option name="project" value="asset-force" />
             </CLLCommand>
             <CLLCommand>
-              <option name="commandLine" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb install" />
+              <option name="commandLine" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb install &lt;path&gt;" />
+              <option name="global" value="false" />
               <option name="id" value="03c66dc8-b7d1-46c2-aca6-9439543e8b48" />
               <option name="name" value="adb install " />
+              <option name="parameters">
+                <array>
+                  <CLLParameter>
+                    <option name="defaultValue" value="" />
+                    <option name="id" value="af05f818-4e2b-42cc-b612-f828f68152b1" />
+                    <option name="name" value="path" />
+                  </CLLParameter>
+                </array>
+              </option>
               <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
               <option name="position" value="3" />
               <option name="project" value="asset-force" />
