@@ -5,20 +5,10 @@
         <option name="commands">
           <list>
             <CLLCommand>
-              <option name="commandLine" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb install &lt;path&gt;" />
-              <option name="global" value="false" />
-              <option name="id" value="03c66dc8-b7d1-46c2-aca6-9439543e8b48" />
-              <option name="name" value="adb install " />
-              <option name="parameters">
-                <array>
-                  <CLLParameter>
-                    <option name="defaultValue" value="" />
-                    <option name="id" value="af05f818-4e2b-42cc-b612-f828f68152b1" />
-                    <option name="name" value="path" />
-                  </CLLParameter>
-                </array>
-              </option>
-              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+              <option name="commandLine" value="npm install" />
+              <option name="id" value="12d32a11-1947-46e9-870c-4092f5fc1190" />
+              <option name="name" value="npm install" />
+              <option name="path" value="$PROJECT_BASE_PATH" />
               <option name="position" value="1" />
               <option name="project" value="asset-force" />
             </CLLCommand>
@@ -40,6 +30,32 @@
               <option name="position" value="3" />
               <option name="project" value="asset-force" />
             </CLLCommand>
+            <CLLCommand>
+              <option name="commandLine" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb install &lt;path&gt;" />
+              <option name="global" value="false" />
+              <option name="id" value="03c66dc8-b7d1-46c2-aca6-9439543e8b48" />
+              <option name="name" value="adb install " />
+              <option name="parameters">
+                <array>
+                  <CLLParameter>
+                    <option name="defaultValue" value="" />
+                    <option name="id" value="af05f818-4e2b-42cc-b612-f828f68152b1" />
+                    <option name="name" value="path" />
+                  </CLLParameter>
+                </array>
+              </option>
+              <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+              <option name="position" value="4" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
+            <CLLCommand>
+              <option name="commandLine" value="npm audit fix" />
+              <option name="id" value="4f29bd76-55e9-421c-850d-1e71bfca35fb" />
+              <option name="name" value="npm audit fix" />
+              <option name="path" value="$PROJECT_BASE_PATH" />
+              <option name="position" value="5" />
+              <option name="project" value="asset-force" />
+            </CLLCommand>
           </list>
         </option>
         <option name="directories">
@@ -48,37 +64,33 @@
               <option name="commands">
                 <list>
                   <CLLCommand>
-                    <option name="commandLine" value="cd /Users/admin/StudioProjects/asset-force-mobile/asset-force &amp;&amp; npm run build:dev &amp;&amp; npx cap copy" />
-                    <option name="global" value="false" />
+                    <option name="commandLine" value="npm run build:dev &amp;&amp; npx cap copy" />
                     <option name="id" value="517e25a5-c660-4cd7-b939-1e662556601b" />
                     <option name="name" value="build:dev" />
-                    <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+                    <option name="path" value="$PROJECT_BASE_PATH" />
                     <option name="project" value="asset-force" />
                   </CLLCommand>
                   <CLLCommand>
-                    <option name="commandLine" value="cd /Users/admin/StudioProjects/asset-force-mobile/asset-force &amp;&amp; npm run build:qa &amp;&amp; npx cap copy" />
-                    <option name="global" value="false" />
+                    <option name="commandLine" value="npm run build:qa &amp;&amp; npx cap copy" />
                     <option name="id" value="c7ea2cc5-0022-47b1-a229-57f800abbdad" />
                     <option name="name" value="build:qa" />
-                    <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+                    <option name="path" value="$PROJECT_BASE_PATH" />
                     <option name="position" value="1" />
                     <option name="project" value="asset-force" />
                   </CLLCommand>
                   <CLLCommand>
-                    <option name="commandLine" value="cd /Users/admin/StudioProjects/asset-force-mobile/asset-force &amp;&amp; npm run build:stg &amp;&amp; npx cap copy" />
-                    <option name="global" value="false" />
+                    <option name="commandLine" value="npm run build:stg &amp;&amp; npx cap copy" />
                     <option name="id" value="3855789b-1283-4bac-98eb-9c82b0151fab" />
                     <option name="name" value="build:stg" />
-                    <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+                    <option name="path" value="$PROJECT_BASE_PATH" />
                     <option name="position" value="2" />
                     <option name="project" value="asset-force" />
                   </CLLCommand>
                   <CLLCommand>
-                    <option name="commandLine" value="cd /Users/admin/StudioProjects/asset-force-mobile/asset-force &amp;&amp; npm run build:prod &amp;&amp; npx cap copy" />
-                    <option name="global" value="false" />
+                    <option name="commandLine" value="npm run build:prod &amp;&amp; npx cap copy" />
                     <option name="id" value="e9b08bf3-feb7-470c-923d-54a2d455c61c" />
                     <option name="name" value="build:prod" />
-                    <option name="path" value="$USER_HOME$/StudioProjects/asset-force-mobile/asset-force" />
+                    <option name="path" value="$PROJECT_BASE_PATH" />
                     <option name="position" value="3" />
                     <option name="project" value="asset-force" />
                   </CLLCommand>
